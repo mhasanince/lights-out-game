@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bf8a08798d50c29c73be43a5df8047d",
+    "revision": "f7e408033db05598096f0f937cab6e4b",
     "url": "/lights-out-game/index.html"
   },
   {
-    "revision": "45dee8636550224b8849",
+    "revision": "be7bf00c181dc279409c",
     "url": "/lights-out-game/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lights-out-game/static/js/2.45911e22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45dee8636550224b8849",
-    "url": "/lights-out-game/static/js/main.ed479040.chunk.js"
+    "revision": "be7bf00c181dc279409c",
+    "url": "/lights-out-game/static/js/main.9a4c5988.chunk.js"
   },
   {
     "revision": "5b2fabad4d260ed5d9e6",
     "url": "/lights-out-game/static/js/runtime-main.f9c75272.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/lights-out-game/static/media/logo.5d5d9eef.svg"
   }
 ]);
