@@ -1,0 +1,11 @@
+.Square {
+  box-sizing: border-box;
+  width: 19%;
+  height: 160px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.Square-on {
+  background-color: #35f23e;
+}
