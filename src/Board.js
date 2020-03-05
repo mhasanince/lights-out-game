@@ -36,6 +36,6 @@ export default class Board extends Component {
     const squares = this.state.board.map((val, idx) => (
       <Square key={idx} index={idx} on={val} click={this.click} />
     ));
-    return <div className="Board">{squares}</div>;
+    return <div className="Flex-item Board">{squares}</div>;
   }
 }

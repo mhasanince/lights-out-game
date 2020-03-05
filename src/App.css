@@ -10,4 +10,9 @@
 .App-content {
   display: flex;
   justify-content: space-evenly;
+  margin: 0 12rem;
+}
+
+.Flex-item {
+  flex: 1 auto;
 }
