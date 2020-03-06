@@ -1,0 +1,18 @@
+.BoardController {
+  margin: 3rem 2rem;
+  text-align: center;
+}
+
+.BoardController-header {
+  font-size: 3rem;
+}
+
+.BoardController-content {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 12rem;
+}
+
+.Flex-item {
+  flex: 1 auto;
+}
